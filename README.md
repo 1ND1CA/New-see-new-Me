@@ -25,11 +25,10 @@ Put an image of your UML Diagram here. Upload the image of your UML Diagram to y
 
 ## Description of 2025 recap
 
-Write a description of what you included in your 2025 recap scene (LastYear)
-
+Went to an all european car meet, found nature
 ## Description of 2026 goals
 
-Write a description of what you included in your 2026 goals scene (ThisYear)
+Goals: Get 225, Get licence, Get A's and B's
 ## Scene API Usage
 
 I used Pause to pause my pictures before moving on to 2026 pictures while using setTextStyle, setTextHeight, and Draw text to introduce my 2025,Aswell as using PlayMusic to play music in the background.
